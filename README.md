@@ -5,6 +5,6 @@ Happy Coding 🖥
 
 - 🔭&nbsp;&nbsp;I’m currently working on: React Native
 - 🌱&nbsp;&nbsp;I’m currently learning: React Native and ReactJs
-- 🧑🏻‍&nbsp;&nbsp;💻Interests: Exploring new techs
+- 🤎&nbsp;&nbsp;Interests: Exploring new techs
 - 🎒&nbsp;&nbsp;Hobbies: Guitar, Badminton, Gadgets, Games
 - 📫&nbsp;&nbsp;How to reach me: raghavsekhri2406@gmail.com
